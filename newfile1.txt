@@ -1,5 +1,0 @@
-firlst line
-second line
-third line
-fourthline
-devline
